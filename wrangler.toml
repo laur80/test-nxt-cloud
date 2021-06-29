@@ -1,9 +1,0 @@
-name = "test"
-type = 'webpack'
-account_id = 'a72c7b16a46baf2305845d370c105bcd'
-route = ''
-zone_id = ''
-usage_model = ''
-workers_dev = true
-target_type = "webpack"
-site = {bucket = "./build",entry-point = "workers-site"}
